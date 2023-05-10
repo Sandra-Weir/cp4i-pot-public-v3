@@ -401,7 +401,7 @@ Once saved, you will see an indicator window appear that shows that **Your API h
 [pic105]: images/105.png
 [pic106]: images/106.png
 
-# 4. Test the API <a name="test_api"></a>
+# 5. Test the API <a name="test_api"></a>
 
 In the API Designer, you have the ability to test the API immediately after creation in the Assemble view!
 
@@ -567,13 +567,13 @@ and click **Send**.
 [pic78]: images/78.png
 [pic79]: images/79.png
 
-# 5. Publish API <a name="publish_api"></a>
+# 6. Publish API <a name="publish_api"></a>
 
 In this lab, we will make the API available to developers. In order to do so, the API must be first put into a product and then published to the Sandbox catalog. A product dictates rate limits and API throttling.
 
 When the product is published, the Invoke policy defined in the previous lab is written to the gateway. 
 
-## 5a. Create Customer Product and Add API <a name="customer_product"></a>
+## 6a. Create Customer Product and Add API <a name="customer_product"></a>
 
 1\. From the vertical navigation menu on the left, click **Develop**.
 
@@ -625,7 +625,7 @@ When the product is published, the Invoke policy defined in the previous lab is 
 [pic89]: images/89.png
 [pic90]: images/90.png
 
-# 6.Summary <a name="summary"></a>
+# 7.Summary <a name="summary"></a>
 
 Congratulations, you have completed the **Create and Secure an API** lab. Throughout the lab, you learned how to:
 
