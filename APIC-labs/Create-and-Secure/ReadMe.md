@@ -63,7 +63,7 @@ If you're not logged before, follow these instructions to access to the Platform
 
 ![alt text][pic93]
 
-5\. For this lab we already have the Rest service built and available as a **bar** file, and you can download the [**CustomerDatabaseV1.bar** file for the service here](./resources/CustomerDatabaseV1.bar).   After you download it rename it with a prefixof yourinitials.  i.e. SWCustomerDatabaseV1.bar
+5\. For this lab we already have the Rest service built and available as a **bar** file, and you can download the [**CustomerDatabaseV1.bar** file for the service here](./resources/CustomerDatabaseV1.bar).   After you download it rename it with a prefixof your initials.  i.e. SWCustomerDatabaseV1.bar
 
 6\. Click on **Deploy integrations**.
 
@@ -71,7 +71,7 @@ If you're not logged before, follow these instructions to access to the Platform
 
 7\. Click **Quick start toolkit integration** and click **Next**.
 
-![alt text][pic95]
+![alt text][pic94]
 
 8\. Drag and drop the BAR file that you just downloaded or click to upload.  Once you have dragged and dropped or uploaded, you will see the bar file listed under **to be imported**.  Click **Next**.
 
